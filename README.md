@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @macknive
-- 👀 I’m interested in opensource
+“I have not failed. I’ve just found 10,000 ways that won’t work.”
 
 <!---
 macknive/macknive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
